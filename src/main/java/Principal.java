@@ -1,6 +1,5 @@
 import javax.swing.JOptionPane;
 import calculadora.Calculadora;
-import jdk.nashorn.internal.scripts.JO;
 
 public class Principal {
     public static void main(String[] args) {
