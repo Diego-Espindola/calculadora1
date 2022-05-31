@@ -1,11 +1,6 @@
-[![Github Actions Status for
-Diego-Espindola/calculadora1](https://github.com/Diego-Espindola/calculadora1/workflows/Integra%C3%A7%C3%A3o%20continua%2
-0de%20Java%20com%20Maven/badge.svg)](https://github.com/Diego-Espindola/calculadora1/actions)
-[![Quality Gate
-Status](https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=alert_status)](https://sonarcloud.io/sum
-mary/new_code?id=calculadora)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=coverage)](https://sonarcloud.io/
-component_measures?id=calculadora&metric=coverage)
+[![Github Actions Status for Diego-Espindola/calculadora1](https://github.com/Diego-Espindola/calculadora1/workflows/Integra%C3%A7%C3%A3o%20continua%20de%20Java%20com%20Maven/badge.svg)](https://github.com/Diego-Espindola/calculadora1/actions)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=calculadora)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=calculadora&metric=coverage)](https://sonarcloud.io/component_measures?id=calculadora&metric=coverage)
 
 # Calculadora com CI.
 Utiliza 3 ambientes:
