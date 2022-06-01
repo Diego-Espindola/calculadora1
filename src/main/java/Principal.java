@@ -25,6 +25,11 @@ public class Principal {
                 case 5:
                     JOptionPane.showMessageDialog(null, "Divisão: " + calculadora.getDivisao());
                     break;
+                case 9:
+                    break;
+                default:
+                    JOptionPane.showMessageDialog(null, "Número inserido é inválido");
+                    break;
             }
         }
     }
