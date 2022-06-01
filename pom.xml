@@ -27,7 +27,6 @@
         <sonar.coverage.exclusions>**/*Principal.*</sonar.coverage.exclusions>
     </properties>
 
-
     <build>
         <plugins>
             <plugin>
