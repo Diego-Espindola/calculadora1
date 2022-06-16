@@ -14,4 +14,4 @@ Utiliza 3 ambientes:
   <br>
 - Utiliza o Apache Maven para a automatização da construção.<br>
 - A pasta test contêm os testes unitários do projeto utilizando JUnit 4.<br>
-- A cobertura do código é realizada através do JaCoCo.<br>
+- A cobertura do código é realizada através do JaCoCo e Sonar.<br>
