@@ -4,7 +4,6 @@ import calculadora.Calculadora;
 public class Principal {
     public static void main(String[] args) {
         String opcao = "";
-        String teste = "";
         Calculadora calculadora = new Calculadora();
         while (!opcao.equals("9")) {
             opcao = JOptionPane.showInputDialog("1 - Leitura \n2 - Soma \n3 - Subtracao"
